@@ -113,7 +113,7 @@ export default function Footer() {
 							className="sm:hidden flex items-center justify-between"
 						>
 							<Image
-								src="/images/MLicon.png"
+								src="/images/aglogo.png"
 								alt="logo"
 								className="text-center"
 								loading="lazy"

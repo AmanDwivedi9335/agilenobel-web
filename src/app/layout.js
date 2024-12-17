@@ -4,8 +4,8 @@ import Header from "@/components/Genric/Header/Header";
 import Footer from "@/components/Genric/Footer/Footer";
 
 export const metadata = {
-  title: "Medibank",
-  description: "Centralised EHR ",
+  title: "Agilenobel",
+  description: "⭐Real-Time Insights with Advanced Data & Temperature Loggers⭐ ",
 };
 
 const outfit = Outfit({
